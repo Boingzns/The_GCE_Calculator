@@ -139,9 +139,9 @@ Example for a 1*2 matrix: [[3 , 4]]
 
 Defined matrices can be recalled with the ‘INF’ button which will display them on the screen
 
-The following matrix functions have been made into buttons: determinant (‘det’), transpose (‘tran’), cofactors (‘co’) and minors (‘min’). They all need matrix inputs and the last two require 3*3 matrices.
+The following matrix functions have been made into buttons: determinant (‘det’), transpose (‘tran’), cofactors (‘co’) and minors (‘min’). They all need matrix inputs and the last two require 3 * 3 matrices.
 
-Matrix inversion works by entering the matrix followed by ‘**-1’, but only with matrices of dimensions 2*2 or 3*3.
+Matrix inversion works by entering the matrix followed by ‘**-1’, but only with matrices of dimensions 2 * 2 or 3 * 3.
 
 ​
 
