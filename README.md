@@ -62,9 +62,9 @@ Indices:
 
 ​
 
-To use a power in the calculator, instead of using x^a use x**a.
+To use a power in the calculator, instead of using x^a use x ** a.
 
-Example: 4**2             Output: 16
+Example: 4 ** 2             Output: 16
 
 ​
 
