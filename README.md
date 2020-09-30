@@ -4,9 +4,12 @@ that has all the functions required by a student studying for their first year o
 The Windows executable file, Mac executable file and the python file are available to download and use.
 
 
+​
 
 
 The GCE Calculator Guide:
+
+​
 
 1 – Calculations:
 
