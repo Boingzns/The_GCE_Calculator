@@ -94,9 +94,9 @@ This calculation takes 3 inputs the equation and the lower and upper bounds that
 
 The equation must contain no brackets between terms, each term must be separated by either a ‘+’ or a ‘-’, there may not be either a ‘+’ or a ‘-’ in the coefficients of a term.
 
-Form: ax**k + bx**n…
+Form: ax ** k + bx ** n…
 
-Example: Equation = 3x**2 – x**-4 + (7/2)x + 3
+Example: Equation = 3x ** 2 – x ** -4 + (7/2)x + 3
 
 ​
 
@@ -242,7 +242,7 @@ C – Solve Quadratic:
 
 Calculates the solutions and the minimum or maximum values for a quadratic equation.
 
-Form: ax**2 + bx + c = 0
+Form: ax ** 2 + bx + c = 0
 
 The equation must follow the same syntax rules as the equation specified in the integration section.
 
