@@ -5,6 +5,7 @@ The Windows executable file, Mac executable file and the python file are availab
 
 
 ​
+​
 
 
 The GCE Calculator Guide:
